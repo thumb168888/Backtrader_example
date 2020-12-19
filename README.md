@@ -7,11 +7,8 @@
 
 #Quick Start
 
-#choose stockNo fastma,slowma
-stockNo="2330"
-fast_ma=20
-slow_ma=60
-
+#
+![image](https://github.com/thumb168888/backtrader_example/blob/main/backtrader_setup.JPG)
 
 
 # backtrader_example
