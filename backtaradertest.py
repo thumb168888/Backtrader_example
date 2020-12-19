@@ -113,4 +113,4 @@ if __name__ == '__main__':
     
     #save pic
     figure = cerebro.plot(style ='candlebars')[0][0]
-    figure.savefig('ecample.png')
+    figure.savefig('example.png')
