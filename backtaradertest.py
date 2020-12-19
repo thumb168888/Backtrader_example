@@ -1,14 +1,10 @@
 import backtrader as bt
 import pandas as pd
 import datetime
-import backtrader.indicators as btind
-
-
-from pandas_datareader import data as web
 import datetime as dt
+import backtrader.indicators as btind
+from pandas_datareader import data as web
 import yfinance as yf
-
-#https://tn00343140a.pixnet.net/blog/post/279624312-backtrader%E4%BD%BF%E7%94%A8sma%E5%9B%9E%E6%B8%AC
 
 #choose stockNo fastma,slowma
 stockNo="2330"
